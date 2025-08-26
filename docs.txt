@@ -1,4 +1,4 @@
 git init : biến folder bình thường -> repository
 git add . 
-git commit -m "first commit"
-git push -u origin master
+git commit -m "....."
+git push -u origin master(git push: từ lần 2 trở đi)
