@@ -1,4 +1,9 @@
 git init : biến folder bình thường -> repository
+git remote add origin git@github.com:tranvanlong2304/c_learning.git
+
+-----------------------------------------------------------------
+
+
 git add . 
 git commit -m "....."
 git push -u origin master(git push: từ lần 2 trở đi)
